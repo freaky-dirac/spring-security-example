@@ -12,7 +12,7 @@ $ mvn clean package
 ```
 
 ## How to deploy by jetty
-Copy the file restfulspring.war in the jetty webapps folder.
+Copy the file restfulspringsecurity.war in the jetty webapps folder.
 
 ## Status
 In progress... NOT STABLE CODE
