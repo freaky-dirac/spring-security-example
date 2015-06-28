@@ -1,6 +1,6 @@
-# RESTful api spring example
+# Spring Security example
 
-A simple example of RESTful application using spring 4.
+A simple security example of RESTful application using spring 4.
 
 ## Dependencies manager
 maven 3.2.5
@@ -14,11 +14,5 @@ $ mvn clean package
 ## How to deploy by jetty
 Copy the file restfulspring.war in the jetty webapps folder.
 
-## How to test
-Go to the url http://localhost:8080/restfulspring/user/mario/rossi by browser
-
-### Output
-
-```
-{"firstname":"mario","lastname":"rossi"}
-```
+## Status
+In progress... NOT STABLE CODE
