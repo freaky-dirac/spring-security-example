@@ -7,7 +7,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = "eu.freakydirac.restfulspring")
-public class RestfulSpringConfiguration {
-
-
+public class RootConfiguration {
 }
